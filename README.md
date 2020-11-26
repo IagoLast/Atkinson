@@ -1,8 +1,6 @@
-# Atkinson Hyperlegible
+# [Atkinson Hyperlegible]((https://www.brailleinstitute.org/freefont))
 
-A new typeface greater legibility and readability for low vision readers, [more info](https://www.brailleinstitute.org/freefont)
-
-
+![Font preview](./im.png)
 
 ## Getting started
 
